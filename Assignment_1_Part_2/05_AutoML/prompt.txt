@@ -1,0 +1,84 @@
+Create a reproduction-ready AutoML data science experiment for my CMPE 255 Assignment 1 Part 2.
+
+Work only inside:
+
+Assignment_1_Part_2/05_AutoML
+
+Do not modify unrelated repository files.
+
+Reproduce an AutoML experiment inspired by the instructor's AutoGluon data science example.
+
+Follow the CRISP-DM methodology.
+
+Create:
+
+automl_experiment.ipynb
+
+The notebook must include:
+
+1. Business Understanding
+2. Data Understanding
+3. Exploratory Data Analysis
+4. Missing-value analysis
+5. Data cleaning
+6. Feature preparation
+7. Train/test split
+8. Leakage prevention
+9. Simple manual Scikit-learn baseline
+10. AutoGluon TabularPredictor workflow
+11. Automated model training
+12. AutoML leaderboard workflow
+13. Model ensembling and stacking explanation
+14. Evaluation metrics
+15. Feature importance workflow
+16. Manual machine learning vs AutoML comparison
+17. Benefits of AutoML
+18. Risks and disadvantages of AutoML
+19. Computational cost considerations
+20. Deployment considerations
+21. Limitations
+22. Future improvements
+23. CRISP-DM conclusion
+
+Use:
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- AutoGluon
+
+The original dataset will NOT be included or executed because of dataset-access constraints.
+
+Do NOT fabricate:
+- accuracy
+- F1
+- leaderboard values
+- model rankings
+- feature importance values
+- AutoGluon training results
+
+Make AutoGluon imports fail gracefully if the package is unavailable.
+
+Make the notebook detect a missing dataset and provide clear instructions rather than crash.
+
+Create:
+
+- README.md
+- automl_experiment.ipynb
+- requirements.txt
+- prompt.txt containing this exact prompt
+- images/ directory
+
+README.md must include:
+
+Dataset and Execution Disclaimer
+
+Explain that the complete AutoML workflow is implemented but training was not executed, so no leaderboard or numerical model results are reported.
+
+At the end:
+1. summarize files created
+2. summarize workflow implemented
+3. confirm no AutoML results were fabricated
+4. confirm no unrelated repository files were modified
