@@ -1,9 +1,9 @@
 # CMPE255
 
 
-Article: https://medium.com/@raheem.saeed2005/from-tweets-to-sentiment-building-a-machine-learning-classifier-with-crisp-dm-7136cc181844
-Youtube: 
+## Article: https://medium.com/@raheem.saeed2005/from-tweets-to-sentiment-building-a-machine-learning-classifier-with-crisp-dm-7136cc181844
 
+## Youtube: (https://youtu.be/qisodGt4z-0)
 
 # Assignment 1 — Twitter Sentiment Analysis
 
