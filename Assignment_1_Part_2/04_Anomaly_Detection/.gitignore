@@ -1,0 +1,6 @@
+creditcard.csv
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+images/*.png
+!images/.gitkeep

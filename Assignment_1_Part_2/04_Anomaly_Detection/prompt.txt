@@ -1,0 +1,82 @@
+Create a reproduction-ready anomaly detection data science experiment for my CMPE 255 Assignment 1 Part 2.
+
+Work only inside:
+
+Assignment_1_Part_2/04_Anomaly_Detection
+
+Do not modify unrelated files.
+
+Reproduce an anomaly detection project inspired by a popular Kaggle fraud, transaction, or anomaly detection dataset.
+
+Follow the CRISP-DM methodology.
+
+Create:
+
+anomaly_detection.ipynb
+
+The notebook must include:
+
+1. Business Understanding
+2. Data Understanding
+3. Exploratory Data Analysis
+4. Missing-value analysis
+5. Duplicate analysis
+6. Data cleaning
+7. Feature preparation
+8. Feature scaling
+9. Outlier analysis
+10. Isolation Forest
+11. Local Outlier Factor
+12. One-Class SVM
+13. Comparison of anomaly detection techniques
+14. Contamination parameter explanation
+15. Precision and Recall where labeled anomalies are available
+16. F1 score where appropriate
+17. Confusion matrix where labels exist
+18. Anomaly visualization
+19. Interpretation of detected anomalies
+20. Strengths and weaknesses of each technique
+21. Limitations
+22. Future improvements
+23. CRISP-DM conclusion
+
+Use:
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+The original dataset will NOT be included or executed because of dataset-access constraints.
+
+Do NOT fabricate:
+- anomaly counts
+- precision
+- recall
+- F1
+- contamination results
+- confusion matrices
+- model comparisons requiring real execution
+
+The notebook should detect whether the dataset exists and provide useful setup instructions instead of crashing.
+
+Create:
+
+- README.md
+- anomaly_detection.ipynb
+- requirements.txt
+- prompt.txt containing this exact prompt
+- images/ directory
+
+README.md must contain a prominent:
+
+Dataset and Execution Disclaimer
+
+Explain that the methodology and evaluation pipeline are fully implemented but numerical anomaly-detection results are intentionally omitted because the dataset was not executed.
+
+At the end:
+1. summarize created artifacts
+2. summarize implemented methods
+3. confirm no numerical results were fabricated
+4. confirm nothing outside this directory was modified
