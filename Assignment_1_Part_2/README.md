@@ -69,4 +69,5 @@ Using reproducible templates without fabricated outputs is preferable to reporti
 
 ## YouTube Walkthrough
 
-[YouTube Video Link — To Be Added]
+[
+](https://youtu.be/qisodGt4z-0)
