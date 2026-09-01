@@ -1,0 +1,80 @@
+Create a reproduction-ready association rule mining data science experiment for my CMPE 255 Assignment 1 Part 2.
+
+Work only inside:
+
+Assignment_1_Part_2/03_Association_Rule_Mining
+
+Do not modify unrelated repository files.
+
+Reproduce a market basket / associative pattern mining experiment inspired by a popular Kaggle transaction dataset.
+
+Follow the CRISP-DM methodology.
+
+Create a Jupyter notebook named:
+
+association_rule_mining.ipynb
+
+Include:
+
+1. Business Understanding
+2. Data Understanding
+3. Exploratory Data Analysis
+4. Transaction cleaning
+5. Missing-value analysis
+6. Duplicate analysis
+7. Conversion of transaction data into basket format
+8. One-hot transaction encoding
+9. Frequent itemset mining
+10. Apriori algorithm
+11. Association rule generation
+12. Support
+13. Confidence
+14. Lift
+15. Rule filtering
+16. Ranking useful rules
+17. Visualization code for important rules
+18. Interpretation of product relationships
+19. Business applications
+20. Limitations
+21. Future improvements
+22. CRISP-DM conclusion
+
+Use:
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- mlxtend where appropriate
+
+The original dataset will NOT be included or executed because of dataset-access constraints.
+
+Do NOT fabricate:
+- frequent itemsets
+- support values
+- confidence values
+- lift values
+- association rules
+- business findings requiring real execution
+
+The notebook must gracefully detect a missing dataset and explain how to provide it.
+
+Create:
+
+- README.md
+- association_rule_mining.ipynb
+- requirements.txt
+- prompt.txt containing this exact prompt
+- images/ directory
+
+README.md must include a visible:
+
+Dataset and Execution Disclaimer
+
+Explain that the complete methodology and code are reproduction-ready, but actual association rules and numerical results are intentionally not reported because the dataset was not executed.
+
+At the end:
+1. summarize the files created
+2. summarize the implemented workflow
+3. confirm no results were fabricated
+4. confirm no files outside this directory were modified
