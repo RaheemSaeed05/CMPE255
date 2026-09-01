@@ -1,0 +1,91 @@
+Create an end-to-end data science experiment for my CMPE 255 Assignment 1 Part 2.
+
+Work only inside this existing directory:
+
+Assignment_1_Part_2/01_NYC_Taxi_Prediction
+
+Do not modify unrelated files elsewhere in the repository.
+
+The project should reproduce an experiment inspired by the Kaggle NYC Taxi Trip Duration challenge.
+
+The goal is to predict taxi trip_duration using supervised regression.
+
+Follow the CRISP-DM methodology and create a complete Jupyter notebook named:
+
+nyc_taxi_analysis.ipynb
+
+The notebook must include:
+
+1. Business Understanding
+2. Data Understanding
+3. Exploratory Data Analysis
+4. Data Cleaning
+5. Missing-value analysis
+6. Duplicate analysis
+7. Outlier analysis
+8. Feature engineering
+9. Train/test split with leakage prevention
+10. Baseline regression model
+11. Linear Regression
+12. Random Forest Regressor
+13. Gradient Boosting or HistGradientBoosting Regressor
+14. Model comparison using:
+   - MAE
+   - RMSE
+   - R²
+15. Actual vs predicted visualization
+16. Feature importance where supported
+17. Final model recommendation
+18. Limitations
+19. Future improvements
+20. CRISP-DM conclusion
+
+Useful engineered features should include where possible:
+
+- pickup hour
+- pickup day of week
+- pickup month
+- passenger count
+- pickup/dropoff coordinates
+- geographic distance between pickup and dropoff using the Haversine formula
+
+Use:
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+Keep compute reasonable.
+
+If the NYC Taxi dataset is too large, use a reproducible random sample between 50,000 and 100,000 rows.
+
+If the Kaggle dataset is not locally available, do not invent data or model results. Instead create the notebook so it can load train.csv when I place it in the project directory, and clearly tell me where I need to download the dataset.
+
+Also create:
+
+- requirements.txt
+- prompt.txt containing this exact prompt
+- a polished README.md
+- an images folder for exported visualizations
+
+The README should explain:
+- objective
+- dataset
+- CRISP-DM methodology
+- features
+- models tested
+- evaluation metrics
+- final results once actually executed
+- how to run the notebook
+
+Do not fabricate any model scores.
+
+Do not push or commit anything yet.
+
+First create the project files and then tell me:
+1. what files were created
+2. whether the dataset was found
+3. whether the notebook was executed
+4. what I need to do next
