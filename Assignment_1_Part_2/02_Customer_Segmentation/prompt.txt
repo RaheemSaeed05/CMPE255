@@ -1,0 +1,78 @@
+Create a reproduction-ready customer segmentation data science experiment for my CMPE 255 Assignment 1 Part 2.
+
+Work only inside this directory:
+
+Assignment_1_Part_2/02_Customer_Segmentation
+
+Do not modify unrelated files elsewhere in the repository.
+
+This project should reproduce a customer segmentation clustering experiment inspired by a popular Kaggle customer segmentation dataset.
+
+Follow the CRISP-DM methodology and create a complete Jupyter notebook named:
+
+customer_segmentation.ipynb
+
+The notebook must include:
+
+1. Business Understanding
+2. Data Understanding
+3. Exploratory Data Analysis
+4. Missing-value analysis
+5. Duplicate analysis
+6. Data cleaning
+7. Outlier analysis
+8. Feature selection
+9. Feature scaling using StandardScaler
+10. K-Means clustering
+11. Elbow method
+12. Silhouette analysis
+13. Comparison of multiple values of K
+14. PCA dimensionality reduction for visualization
+15. Cluster visualization
+16. Customer segment profiling
+17. Interpretation of each cluster
+18. Business recommendations
+19. Limitations
+20. Future improvements
+21. CRISP-DM conclusion
+
+Use:
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+The original Kaggle dataset will NOT be included or executed because of dataset-access constraints.
+
+Do NOT fabricate:
+- silhouette scores
+- cluster sizes
+- optimal K values
+- PCA results
+- business conclusions that require actual numerical execution
+
+Make the notebook detect whether the expected CSV exists. If it does not exist, provide clear instructions rather than crashing.
+
+Create:
+
+- README.md
+- customer_segmentation.ipynb
+- requirements.txt
+- prompt.txt containing this exact prompt
+- images/ directory
+
+README.md must contain a prominent section titled:
+
+Dataset and Execution Disclaimer
+
+Explain that the project reproduces the complete CRISP-DM methodology and clustering workflow, but numerical results are intentionally not reported because the original dataset was not executed.
+
+Make the project polished enough for a master's-level data science assignment.
+
+At the end:
+1. summarize all generated files
+2. summarize what methodology was implemented
+3. confirm that no numerical results were fabricated
+4. confirm that no files outside this directory were changed
