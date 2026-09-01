@@ -1,0 +1,86 @@
+Create a reproduction-ready time-series forecasting data science experiment for my CMPE 255 Assignment 1 Part 2.
+
+Work only inside:
+
+Assignment_1_Part_2/06_Time_Series_Forecasting
+
+Do not modify unrelated repository files.
+
+Reproduce an end-to-end time-series forecasting experiment inspired by the instructor's time-series data science project.
+
+Follow the CRISP-DM methodology.
+
+Create:
+
+time_series_forecasting.ipynb
+
+The notebook must include:
+
+1. Business Understanding
+2. Data Understanding
+3. Time-series Exploratory Data Analysis
+4. Datetime parsing
+5. Missing-date analysis
+6. Missing-value handling
+7. Trend analysis
+8. Seasonality analysis
+9. Rolling statistics
+10. Time-aware train/test split
+11. Explicit prevention of temporal leakage
+12. Naive forecasting baseline
+13. Moving-average forecasting
+14. Exponential Smoothing
+15. Holt-Winters forecasting
+16. Optional regression-based forecasting workflow
+17. MAE
+18. RMSE
+19. MAPE where appropriate
+20. Forecast-vs-actual visualization
+21. Residual analysis
+22. Model comparison logic
+23. Final recommendation methodology
+24. Deployment considerations
+25. Limitations
+26. Future improvements
+27. CRISP-DM conclusion
+
+Use:
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Statsmodels
+
+The original dataset will NOT be included or executed because of dataset-access constraints.
+
+Do NOT fabricate:
+- forecasts
+- MAE
+- RMSE
+- MAPE
+- residual results
+- best-model claims requiring execution
+
+The notebook must detect a missing dataset and explain how to supply it rather than crashing.
+
+Create:
+
+- README.md
+- time_series_forecasting.ipynb
+- requirements.txt
+- prompt.txt containing this exact prompt
+- images/ directory
+
+README.md must contain:
+
+Dataset and Execution Disclaimer
+
+Explain that the complete forecasting methodology is implemented but actual forecasting results are intentionally omitted because the source dataset was not executed.
+
+At the end:
+1. summarize generated files
+2. summarize forecasting methods implemented
+3. confirm no numerical results were fabricated
+4. confirm no unrelated files were modified
