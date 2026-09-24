@@ -26,9 +26,9 @@ Colab_12: https://youtu.be/dLxup1VOilQ
 
 Colab_13: https://youtu.be/rZbDGNMGA-0
 
-Colab_14:
+Colab_14: https://youtu.be/5Xm2l59QB50
 
-Colab_15:
+Colab_15: https://youtu.be/6I42dYPMqy4
 
 Colab_Playground: 
 
