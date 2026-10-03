@@ -12,8 +12,7 @@ Youtube: https://youtu.be/-wVqkhSjhB8
 
 - The main demonstrations ran. MITRA was skipped because of insufficient memory. A table-formatting error remains in the saved output, but later cells continued.
 
-Youtube: 
-
+Youtube: (https://youtu.be/cMp5MfipWrA)
 ## Part 3: AutoGluon ML
 
 - The notebook reached its final cell without uncaught Python errors. The multimodal model used TF-IDF and logistic regression as a fallback. TabICL was skipped because its dependency was unavailable. The installation output contains a cancelled-install message, although later cells executed.
