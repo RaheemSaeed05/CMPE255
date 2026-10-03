@@ -6,7 +6,7 @@ KMeans clustering and autogluon, pycarat and RAPIDS libraries for automl
 
 - Completed with saved outputs and no recorded errors.
 
-Youtube: 
+Youtube: https://youtu.be/-wVqkhSjhB8
 
 ## Part 2: AutoGluon 
 
