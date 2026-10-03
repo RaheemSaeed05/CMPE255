@@ -2,7 +2,7 @@ Raheem Saeed
 CMPE 255
 KMeans clustering and autogluon, pycarat and RAPIDS libraries for automl
 
-# Part 1: K-means 
+## Part 1: K-means 
 
 - Completed with saved outputs and no recorded errors.
 
