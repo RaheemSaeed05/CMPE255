@@ -31,8 +31,7 @@ Explores PyCaret through machine-learning setup, training, model comparison, and
 
 - The initial import issue was resolved, and the notebook completed its later sections. 
 
-Youtube: 
-
+Youtube: (https://youtu.be/S7QWxezujrk)
 ## Part 6: PyCaret MLOps
 
 - The repaired final model-comparison cell completed, and the final chart and version table have saved outputs.
