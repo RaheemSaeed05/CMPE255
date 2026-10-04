@@ -36,7 +36,7 @@ Youtube: (https://youtu.be/S7QWxezujrk)
 
 - The repaired final model-comparison cell completed, and the final chart and version table have saved outputs.
 
-Youtube: 
+Youtube: https://youtu.be/7Cm8VeiHpRE
 
 __________________________________
 
