@@ -17,7 +17,7 @@ Youtube: (https://youtu.be/cMp5MfipWrA)
 
 - The notebook reached its final cell without uncaught Python errors. The multimodal model used TF-IDF and logistic regression as a fallback. TabICL was skipped because its dependency was unavailable. The installation output contains a cancelled-install message, although later cells executed.
 
-Youtube: 
+Youtube: https://youtu.be/kT1GwyLoD2k
 
 ## Part 4: NVIDIA
 
