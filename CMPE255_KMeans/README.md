@@ -23,7 +23,7 @@ Youtube: https://youtu.be/kT1GwyLoD2k
 
 - CPU-versus-GPU comparisons ran on a Tesla T4. The sorting example showed approximately 14.3× faster GPU execution after warm-up and 1.5× when including data transfer. These results apply to this experiment and may vary across environments.
 
-Youtube: 
+Youtube: https://youtu.be/eUclv6Txces
 
 ## Part 5: PyCaret 
 
