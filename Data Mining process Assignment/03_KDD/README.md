@@ -46,21 +46,3 @@ The Boolean matrix contains **9,465 transaction rows × 94 item columns** and **
 All **14 rules** had support, confidence, and lift recalculated directly from the cleaned baskets. The results agreed with `mlxtend` within `rtol=1e-9` and `atol=1e-12`.
 
 For **Toast → Coffee**, **318** baskets contained Toast, **4,528** contained Coffee, and **224** contained both, out of **9,465** baskets. This yields **2.3666% support**, **70.4403% confidence**, **47.8394% overall Coffee frequency**, and **1.4724 lift**. Confidence exceeds the overall Coffee baseline by **22.60 percentage points**, but the rule applies to only **2.37%** of all baskets. **Thirteen** retained rules have Coffee as their consequent; the remaining rule is **Pastry → Bread**, with lift around **1.0350**. These limitations matter when interpreting suggestion variety and usefulness.
-
-## Review history and remaining delivery work
-
-The **Selection, Preprocessing, Transformation, Data Mining, and Interpretation/Evaluation** phases each received a first and second expert review in the conversation. All ten reviews found **no essential corrections**. Revision 1 records retained the existing approved work without claiming new code execution.
-
-The five-phase historical analysis and metric verification are complete according to the supplied execution outputs. **A saved-rule suggestion demonstration has not yet been confirmed as executed** in those materials. The intended demonstration should use previously mined rules and exclude products already in the example basket; it should not be described as tested until its code and output are available.
-
-Submission-related items identified as pending in Phase 5 were artifact packaging, the final Medium article, the YouTube walkthrough, GitHub publication, and submission links. This README and `report.md` address the written-documentation portion only.
-
-GitHub:
-
-Colab:
-
-Medium:
-
-YouTube:
-
-Keep the KDD files within their own project directory when assembling the final repository. The raw Kaggle data is not included in these two documentation files.
