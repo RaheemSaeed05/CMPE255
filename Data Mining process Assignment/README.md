@@ -8,7 +8,7 @@ Raheem Saeed CMPE 255
 02_SEMMA:
 
 - Youtube:
-- Medium:
+- Medium: https://medium.com/@raheem.saeed2005/can-we-predict-a-students-final-grade-exploring-machine-learning-with-semma-53df5bdd944a
 
 03_KDD: 
 
