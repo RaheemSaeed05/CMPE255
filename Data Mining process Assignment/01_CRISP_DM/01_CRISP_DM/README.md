@@ -61,14 +61,3 @@ The function blocks missing columns, empty inputs, and missing/blank/duplicate c
 ## Fixed evaluation policy
 
 Validation selects the model using precision at the 10% limit, then average precision and ROC-AUC for model ties. Customer-score ties use customerID ascending. The selected forest retains the original training-only fit. Historical success means precision at least 10 percentage points above the cohort churn rate. Scores are ranking scores; calibration was not assessed. Saved/reloaded scores were compared with `rtol=1e-9`, `atol=1e-12`.
-
-## Publication checklist
-
-- Publish this entire `01_CRISP_DM` folder in the assignment repository.
-- Add the real repository/Colab links after publication.
-- Write and publish the required Medium article and add its URL here.
-- Record and publish the code/artifact walkthrough and add its YouTube URL here.
-- Keep SEMMA and KDD in their own separate directories, using different datasets.
-- Link all project deliverables from the final submitted website URL.
-
-Only the local CRISP-DM report/package is assembled here. No repository, article, video, or assignment submission has been published by this packaging step. Monitoring remains a documented future plan.
