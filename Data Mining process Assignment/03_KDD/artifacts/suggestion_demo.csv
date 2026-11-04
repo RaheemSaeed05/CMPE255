@@ -1,0 +1,5 @@
+Input basket,Suggestions,Number of suggestions,Reproduced after reload
+"[""Toast""]","[""Coffee""]",1,True
+"[""Pastry""]","[""Coffee"", ""Bread""]",2,True
+"[""Toast"", ""Coffee""]",[],0,True
+[],[],0,True

@@ -1,0 +1,240 @@
+{
+  "items": [
+    "Adjustment",
+    "Afternoon with the baker",
+    "Alfajores",
+    "Argentina Night",
+    "Art Tray",
+    "Bacon",
+    "Baguette",
+    "Bakewell",
+    "Bare Popcorn",
+    "Basket",
+    "Bowl Nic Pitt",
+    "Bread",
+    "Bread Pudding",
+    "Brioche and salami",
+    "Brownie",
+    "Cake",
+    "Caramel bites",
+    "Cherry me Dried fruit",
+    "Chicken Stew",
+    "Chicken sand",
+    "Chimichurri Oil",
+    "Chocolates",
+    "Christmas common",
+    "Coffee",
+    "Coffee granules",
+    "Coke",
+    "Cookies",
+    "Crepes",
+    "Crisps",
+    "Drinking chocolate spoons",
+    "Duck egg",
+    "Dulce de Leche",
+    "Eggs",
+    "Ella's Kitchen Pouches",
+    "Empanadas",
+    "Extra Salami or Feta",
+    "Fairy Doors",
+    "Farm House",
+    "Focaccia",
+    "Frittata",
+    "Fudge",
+    "Gift voucher",
+    "Gingerbread syrup",
+    "Granola",
+    "Hack the stack",
+    "Half slice Monster",
+    "Hearty & Seasonal",
+    "Honey",
+    "Hot chocolate",
+    "Jam",
+    "Jammie Dodgers",
+    "Juice",
+    "Keeping It Local",
+    "Kids biscuit",
+    "Lemon and coconut",
+    "Medialuna",
+    "Mighty Protein",
+    "Mineral water",
+    "Mortimer",
+    "Muesli",
+    "Muffin",
+    "My-5 Fruit Shoot",
+    "Nomad bag",
+    "Olum & polenta",
+    "Panatone",
+    "Pastry",
+    "Pick and Mix Bowls",
+    "Pintxos",
+    "Polenta",
+    "Postcard",
+    "Raspberry shortbread sandwich",
+    "Raw bars",
+    "Salad",
+    "Sandwich",
+    "Scandinavian",
+    "Scone",
+    "Siblings",
+    "Smoothies",
+    "Soup",
+    "Spanish Brunch",
+    "Spread",
+    "Tacos/Fajita",
+    "Tartine",
+    "Tea",
+    "The BART",
+    "The Nomad",
+    "Tiffin",
+    "Toast",
+    "Truffles",
+    "Tshirt",
+    "Valentine's card",
+    "Vegan Feast",
+    "Vegan mincepie",
+    "Victorian Sponge"
+  ],
+  "settings": {
+    "min_support": 0.01,
+    "min_confidence": 0.3,
+    "lift_greater_than": 1,
+    "max_itemset_size": 3,
+    "single_item_consequent": true,
+    "ordering": [
+      "lift descending",
+      "confidence descending",
+      "support descending",
+      "antecedent alphabetical",
+      "consequent alphabetical"
+    ]
+  },
+  "rules": [
+    {
+      "antecedent": [
+        "Toast"
+      ],
+      "consequent": "Coffee",
+      "support": 0.023666138404648707,
+      "confidence": 0.7044025157232704,
+      "lift": 1.4724314954330286
+    },
+    {
+      "antecedent": [
+        "Spanish Brunch"
+      ],
+      "consequent": "Coffee",
+      "support": 0.010882197569994718,
+      "confidence": 0.5988372093023255,
+      "lift": 1.2517655004519679
+    },
+    {
+      "antecedent": [
+        "Medialuna"
+      ],
+      "consequent": "Coffee",
+      "support": 0.03518225039619651,
+      "confidence": 0.5692307692307692,
+      "lift": 1.1898783636857841
+    },
+    {
+      "antecedent": [
+        "Pastry"
+      ],
+      "consequent": "Coffee",
+      "support": 0.04754358161648178,
+      "confidence": 0.5521472392638037,
+      "lift": 1.154168202215526
+    },
+    {
+      "antecedent": [
+        "Alfajores"
+      ],
+      "consequent": "Coffee",
+      "support": 0.0196513470681458,
+      "confidence": 0.5406976744186046,
+      "lift": 1.1302348693401265
+    },
+    {
+      "antecedent": [
+        "Juice"
+      ],
+      "consequent": "Coffee",
+      "support": 0.020602218700475437,
+      "confidence": 0.5342465753424658,
+      "lift": 1.11674996369621
+    },
+    {
+      "antecedent": [
+        "Sandwich"
+      ],
+      "consequent": "Coffee",
+      "support": 0.038246170100369785,
+      "confidence": 0.5323529411764706,
+      "lift": 1.1127916493452503
+    },
+    {
+      "antecedent": [
+        "Cake"
+      ],
+      "consequent": "Coffee",
+      "support": 0.054727945060750134,
+      "confidence": 0.5269582909460834,
+      "lift": 1.101515067094673
+    },
+    {
+      "antecedent": [
+        "Scone"
+      ],
+      "consequent": "Coffee",
+      "support": 0.018066561014263075,
+      "confidence": 0.5229357798165137,
+      "lift": 1.0931067040554996
+    },
+    {
+      "antecedent": [
+        "Cookies"
+      ],
+      "consequent": "Coffee",
+      "support": 0.02820919175911252,
+      "confidence": 0.5184466019417475,
+      "lift": 1.0837228549864488
+    },
+    {
+      "antecedent": [
+        "Hot chocolate"
+      ],
+      "consequent": "Coffee",
+      "support": 0.029582673005810883,
+      "confidence": 0.5072463768115942,
+      "lift": 1.0603107236134584
+    },
+    {
+      "antecedent": [
+        "Pastry"
+      ],
+      "consequent": "Bread",
+      "support": 0.029160063391442156,
+      "confidence": 0.33865030674846625,
+      "lift": 1.0349774470049187
+    },
+    {
+      "antecedent": [
+        "Brownie"
+      ],
+      "consequent": "Coffee",
+      "support": 0.0196513470681458,
+      "confidence": 0.49076517150395776,
+      "lift": 1.025859617554099
+    },
+    {
+      "antecedent": [
+        "Muffin"
+      ],
+      "consequent": "Coffee",
+      "support": 0.018806127839408347,
+      "confidence": 0.489010989010989,
+      "lift": 1.0221928027802585
+    }
+  ]
+}
