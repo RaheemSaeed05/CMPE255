@@ -2,7 +2,7 @@ Raheem Saeed CMPE 255
 
 01_CRISP:
 
-- Youtube:
+- Youtube: https://youtu.be/EPaVwLIBjM0
 - Medium: https://medium.com/@raheem.saeed2005/can-machine-learning-predict-which-customers-will-leave-exploring-customer-churn-with-crisp-dm-a7551d0e8083
 
 02_SEMMA:
