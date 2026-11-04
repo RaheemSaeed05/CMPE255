@@ -1,0 +1,2 @@
+Model,Test accounts,Selected accounts,Total test churners,Churners selected,Precision at 10%,Recall at 10%,Random expected precision,Gain over random (pp),Average precision,ROC-AUC,Meets target
+Random Forest,1409,140,374,102,0.7285714285714285,0.2727272727272727,0.2654364797728886,46.313494879854,0.6325772230674604,0.8314758841613061,True
