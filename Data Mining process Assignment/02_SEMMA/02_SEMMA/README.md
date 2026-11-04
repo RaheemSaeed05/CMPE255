@@ -48,17 +48,3 @@ Input must contain G1 and G2, numeric, finite, nonmissing, and within 0–20. G3
 Sample Round 1 was absent from the uploaded notebook and was restored from the user's supplied review in the conversation, with an explicit restoration note. Heading spacing was corrected. Existing code and outputs were preserved. For phases with no required corrections, revision notes retain the prior work rather than inventing changes.
 
 Package verification checked CSV/source-row alignment, finite scores, range flags, and test MAE for the selected model and baseline. It did not rerun model fitting or reload the estimator. The original execution evidence is retained in the notebook.
-
-## Submission status
-
-This folder is ready for upload to the assignment repository as `02_SEMMA`. Python/Colab was used; SAS was not used. Repository publication, the Medium article, and the YouTube walkthrough remain pending. Add the actual links below when available:
-
-GitHub:
-
-Colab:
-
-Medium:
-
-YouTube:
-
-Keep CRISP-DM and KDD in separate subdirectories and link all required deliverables from the final submitted URL.
