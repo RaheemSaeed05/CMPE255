@@ -1,0 +1,14 @@
+{
+  "required_predictors": [
+    "G1",
+    "G2"
+  ],
+  "input_type": "numeric, finite, nonmissing",
+  "input_range": [
+    0,
+    20
+  ],
+  "target_required": false,
+  "prediction_policy": "continuous, no rounding or clipping",
+  "row_reference": "original DataFrame index; not a student identifier"
+}

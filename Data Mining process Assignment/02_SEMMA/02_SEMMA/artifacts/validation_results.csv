@@ -1,0 +1,4 @@
+Model,Validation MAE,Predictions outside 0–20
+Median baseline,3.3164556962025316,0
+Linear Regression,1.0948852591591787,1
+Random Forest,1.3106868983290334,0
