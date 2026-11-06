@@ -1,14 +1,15 @@
-# CMPE 255 Short Story | A Survey of AI Scientists
+# CMPE 255 Short Story 
+# A Survey of AI Scientists
 
-**Raheem Saeed · Individual assignment · In progress**
+**Raheem Saeed 
 
 The data-mining question is how an AI scientist retrieves relevant passages from a collection of research papers and traces a generated claim back to its evidence. The literature-review stage of the survey provides the focus, with PaperQA as a concrete example.
 
-## Source paper
+## Original Source paper
 
-Guiyao Tie, Pan Zhou, and Lichao Sun. *A Survey of AI Scientists*. [Read the assigned version on arXiv (v5, January 17, 2026)](https://arxiv.org/pdf/2510.23045v5).
+Guiyao Tie, Pan Zhou, and Lichao Sun. *A Survey of AI Scientists*. [## A Survey of AI Scientists](https://arxiv.org/pdf/2510.23045v5).
 
-## Submission artifacts
+## Deliverables
 
 | Artifact | Link or status |
 | --- | --- |
