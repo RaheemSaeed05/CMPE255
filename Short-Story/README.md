@@ -3,7 +3,7 @@
 
 ## Deliverables
 
-### Orignal article: [Publication link pending ](https://arxiv.org/pdf/2510.23045)
+### Orignal article: [A Survey of AI Scientists](https://arxiv.org/pdf/2510.23045)
 ### Medium article
 ### Presentation: 
 ### Recorded presentation: 
