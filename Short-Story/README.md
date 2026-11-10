@@ -7,9 +7,7 @@ Guiyao Tie, Pan Zhou, and Lichao Sun. [A Survey of AI Scientists](https://arxiv.
 
 ## Deliverables
 
-| Artifact | Link or status |
-| --- | --- | |
-| Original Medium article | [Publication link pending ](https://arxiv.org/pdf/2510.23045)|
+# Original Medium article: [Publication link pending ](https://arxiv.org/pdf/2510.23045)|
 | Presentation slides (PDF or PPT) | Upload pending |
 | SlideShare presentation | Publication link pending |
 | Recorded presentation (10–15 minutes) | Video upload pending |
