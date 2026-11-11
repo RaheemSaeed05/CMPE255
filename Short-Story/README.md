@@ -1,5 +1,6 @@
 # CMPE 255 Short Story 
 # A Survey of AI Scientists
+### [Orignal Spreadsheet](https://docs.google.com/spreadsheets/d/1dgFf_VLUsn00PcexC8l3uXd5lKOSDMXS66x70DCNL_g/edit?gid=758617987#gid=758617987)
 
 ## Deliverables
 
